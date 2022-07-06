@@ -1,2 +1,0 @@
-Welcome to qbrainstorm software team 
-It is initial created file to test In order to create a commit changes
